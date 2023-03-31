@@ -33,3 +33,9 @@ Goal: Visualize the annual demeaned temperatures from each station.
 4. After adding the DTK layer and my stations layer, I designed my map in the QGIS Map Composer. I could export to either PDF or PNG image. I chose the latter. I also saved the map as a vector in case I might want to do more to my project in the future. The vector is selected_NRW_stations.qgz.
 
 5. To plot the warming stripes, I sourced the code from and edited Prof. Becker's code from his notebook 'gdms0155_DWD_NRW_5_Warming_Stripes/gdms155_DWD_NRW_5_Warming_Stripes.ipynb.' I moved most of the imported necessary packages/library at the beginning of my code. The generated plot was as expected, i.e. showing increased annual mean temperatures overall.
+
+Notes:
+- NameError - forgot to name imported pandas as pd
+- FTP error/timeout error - restarted kernel and ran code made it work
+- Set crs in the Jupyter-lab was wrong, i.e. in EPSG25832 instead of the correct WGS84
+- Install seaborn with anaconda shell prompt exposed an inconsistent environment and has been resolved.
