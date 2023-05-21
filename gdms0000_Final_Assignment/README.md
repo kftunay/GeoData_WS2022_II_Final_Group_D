@@ -1,5 +1,7 @@
 # EE_3.07 Geodata Management Systems WS2022/23 - <br> Final Assignment
 
+## Group D Video presentation can be viewed through this link: https://drive.google.com/file/d/10wnq03JxxiG9GPsozuuWm8yGwCJQJzJF/view?usp=sharing
+
 ## 0. General Remarks
 
 1. Due date is **Monday 2023-03-13T23:59:59CET**. 
